@@ -1,71 +1,65 @@
-<channels>	
-<channel>	
-<name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>	
-<externallink>https://raw.githubusercontent.com/mello506/1.1-FLM-NEWADD/main/2C2-COL-EPC-MTX</externallink>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>	
-</channel>	
-</channels>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>	
-<title>[COLOR white][B]Fúria de Titãs (1981)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=ojw1sau98Jg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Furia de Titas[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95c582a90e72283f45df5046309d5bb47cfe3643$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas - HD[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c11d6497e6c7dd288775ef06ede7424dd724a1f0$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas - FHD[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Furia.Titas/LS-Furia.de.Titas.1981.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Furia de Titas - DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/5LObtR57MxWD7Me0tiRaqgrqKQD.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/iUEdxWrRt1a4e49TkwUShjzw8pJ.jpg</fanart>	
-<info>Deuses no Olimpo, terríveis monstros mitológicos e heróis mortais fazem deste espetáculo de imaginação uma aventura imperdível. Perseu, o filho mortal de Zeus,luta para salvar a vida da princesa Andrômeda do monstro marinho Kraken.</info>	
-<genre>ÉPICOS</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>	
-<title>[COLOR white][B]Fúria de Titãs 1 (2010)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=RGeD4joet_Y$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Furia de Titas 1[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfb618c20877534d90c32e21f8e23017f1c7e518$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas 1 - HD[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d3da54c18acde3294e63231ec8d4b4e02d5ed61$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas 1 - FHD[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Furia.Titas/LS-Furia.de.Titas.1.2010.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Furia de Titas - DUB[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/R21t8SVfr6sQQ5mzjkecEU02YW.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/hUUTJPmvBvBKILNLrBu16pRxr6M.jpg</fanart>	
-<info>Perseu , para salvar a cidade de Argos da fúria dos deuses do olimpo e da vingança de Hades ,vai enfrentar uma perigosa jornada contra terríveis criaturas, para salvar os mortais e a bela Andrômeda do sacrifício para o monstro Kraken.</info>	
-<genre>ÉPICOS</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>	
-<title>[COLOR white][B]Fúria de Titãs 2 (2012)[/B][/COLOR]</title>	
-<link>plugin://plugin.video.youtube/play/?video_id=SR8IXaOIqn4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Furia de Titas 2[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74c03de26f2676ffe18753fa5a004dc4e01877ce$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas 2 - HD[/B][/COLOR]</link>	
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1fa168448c0518b34362a91db16e9b3fde901ff$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas 2 - FHD[/B][/COLOR]</link>	
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Furia.Titas/LS-Furia.de.Titas.2.2012.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Furia de Titas 2 - FHD[/B][/COLOR]</link>	
-<thumbnail>https://www.themoviedb.org/t/p/original/cJFTOEyw8gmJoGW7MZCtx4m1DUs.jpg</thumbnail>	
-<fanart>https://www.themoviedb.org/t/p/original/s7VNgGkbgX2ZB8ctDBJXDBq7yt7.jpg</fanart>	
-<info>Dez anos depois de derrotar o Kraken, Perseu vive em paz. Mas os Deuses perdem o controle sobre os Titãs. Perseu é chamado novamente, agora para resgatar seu pai, Zeus, vencer os Titãs e salvar a humanidade.</info>	
-<genre>ÉPICOS</genre>	
-</item>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<channels>	
-<channel>	
-<name>[COLOR black].[/COLOR]</name>	
-<externallink>https://raw.githubusercontent.com/mello506/1.1-FLM-NEWADD/main/1B2-COL-ASAO-KRP</externallink>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-</channel>	
-</channels>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<channels>	
-<channel>	
-<name>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?	
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</name>	
-<externallink>https://raw.githubusercontent.com/mello506/1.1-FLM-NEWADD/main/1B2-COL-ASAO-KRP</externallink>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>	
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
-</channel>	
-</channels>	
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
+<item>				
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>				
+<link>https://raw.githubusercontent.com/mello506/1.2-COL-FLM-NEWADD/main/A1A-COL-DES.MATAR-KRP</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
+<item>				
+<title>[COLOR white][B]Fúria de Titãs (1981)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=ojw1sau98Jg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Furia de Titas[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95c582a90e72283f45df5046309d5bb47cfe3643$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas - HD[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c11d6497e6c7dd288775ef06ede7424dd724a1f0$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas - FHD[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Furia.Titas/LS-Furia.de.Titas.1981.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Furia de Titas - DUB[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/5LObtR57MxWD7Me0tiRaqgrqKQD.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/iUEdxWrRt1a4e49TkwUShjzw8pJ.jpg</fanart>				
+<info>Deuses no Olimpo, terríveis monstros mitológicos e heróis mortais fazem deste espetáculo de imaginação uma aventura imperdível. Perseu, o filho mortal de Zeus,luta para salvar a vida da princesa Andrômeda do monstro marinho Kraken.</info>				
+<genre>ÉPICOS</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
+<item>				
+<title>[COLOR white][B]Fúria de Titãs 1 (2010)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=RGeD4joet_Y$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Furia de Titas 1[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfb618c20877534d90c32e21f8e23017f1c7e518$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas 1 - HD[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d3da54c18acde3294e63231ec8d4b4e02d5ed61$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas 1 - FHD[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Furia.Titas/LS-Furia.de.Titas.1.2010.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Furia de Titas - DUB[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/R21t8SVfr6sQQ5mzjkecEU02YW.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/hUUTJPmvBvBKILNLrBu16pRxr6M.jpg</fanart>				
+<info>Perseu , para salvar a cidade de Argos da fúria dos deuses do olimpo e da vingança de Hades ,vai enfrentar uma perigosa jornada contra terríveis criaturas, para salvar os mortais e a bela Andrômeda do sacrifício para o monstro Kraken.</info>				
+<genre>ÉPICOS</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
+<item>				
+<title>[COLOR white][B]Fúria de Titãs 2 (2012)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=SR8IXaOIqn4$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Furia de Titas 2[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74c03de26f2676ffe18753fa5a004dc4e01877ce$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas 2 - HD[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1fa168448c0518b34362a91db16e9b3fde901ff$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Furia de Titas 2 - FHD[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-CL/Furia.Titas/LS-Furia.de.Titas.2.2012.HD.dub.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Furia de Titas 2 - FHD[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/cJFTOEyw8gmJoGW7MZCtx4m1DUs.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/s7VNgGkbgX2ZB8ctDBJXDBq7yt7.jpg</fanart>				
+<info>Dez anos depois de derrotar o Kraken, Perseu vive em paz. Mas os Deuses perdem o controle sobre os Titãs. Perseu é chamado novamente, agora para resgatar seu pai, Zeus, vencer os Titãs e salvar a humanidade.</info>				
+<genre>ÉPICOS</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
+<item>				
+<title>[COLOR black].[/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
+<item>				
+<title>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?				
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>				
+<link>ignoreme</link>				
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>				
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
