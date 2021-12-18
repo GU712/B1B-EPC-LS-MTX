@@ -1,26 +1,26 @@
-<item>
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
-<link>NOLINK</link>	
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Vikings [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=saaFe2zZYbo</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3oInkxcnNV2pZQbkFY3ovHYExR.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>
-<info>Assista ao trailer</info>
-<genre>ÉPICOS</genre> 
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vikings (2013) - T01 - FHD DUAL[/B][/COLOR]</title>
-
+<item>		
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
+<link>NOLINK</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Vikings [/B][/COLOR]</title>		
+<link>plugin://plugin.video.youtube/play/?video_id=saaFe2zZYbo</link>		
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3oInkxcnNV2pZQbkFY3ovHYExR.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>		
+<info>Assista ao trailer</info>		
+<genre>ÉPICOS</genre> 		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vikings (2013) - T01 - FHD DUAL[/B][/COLOR]</title>		
+		
 <link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 09 EPs[/B][/COLOR]</link>		
 		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR white][B]Ritos de Passagens [/B][/COLOR]</link>		
@@ -32,28 +32,155 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR white][B]Resgate de Um Rei [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR white][B]Sacrificar [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T01/LS-T01E09.mkv$nome=[COLOR orange][B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR white][B]Tudo Muda [/B][/COLOR]</link>		
-
-<thumbnail>https://www.themoviedb.org/t/p/original/uZ6uqYduM77H37yQUNHxycZiGDp.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>
-<info>Ragnar Lothbrok é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<item>
-<title>[COLOR black].[/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
-	
-<item>
-<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
-<link>ignoreme</link>
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/uZ6uqYduM77H37yQUNHxycZiGDp.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>		
+<info>Ragnar Lothbrok é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico.</info>		
+<genre>ÉPICOS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vikings (2013) - T02 - FHD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 10 EPs[/B][/COLOR]</link>		
+		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T02/LS-T02E01.mkv$nome=[COLOR orange][B]T02E01[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Irmao de Guerra [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T02/LS-T02E02.mkv$nome=[COLOR orange][B]T02E02[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Invasao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T02/LS-T02E03.mkv$nome=[COLOR orange][B]T02E03[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Traisao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T02/LS-T02E04.mkv$nome=[COLOR orange][B]T02E04[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Olho por Olho [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T02/LS-T02E05.mkv$nome=[COLOR orange][B]T02E05[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Respostas em Sangue [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T02/LS-T02E06.mkv$nome=[COLOR orange][B]T02E06[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Os Imperdoaveis [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T02/LS-T02E07.mkv$nome=[COLOR orange][B]T02E07[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Aguia de Sangue [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T02/LS-T02E08.mkv$nome=[COLOR orange][B]T02E08[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Desossado [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T02/LS-T02E09.mkv$nome=[COLOR orange][B]T02E09[/B][COLOR yellow] ->[/COLOR][COLOR white][B]A Escolha [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T02/LS-T02E10.mkv$nome=[COLOR orange][B]T02E10[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Orasao do Senhor [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/uZ6uqYduM77H37yQUNHxycZiGDp.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>		
+<info>Ragnar Lothbrok é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico.</info>		
+<genre>ÉPICOS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vikings (2013) - T03 - FHD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 10 EPs[/B][/COLOR]</link>		
+		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T03/LS-T03E01.mkv$nome=[COLOR orange][B]T03E01[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Mercenario [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T03/LS-T03E02.mkv$nome=[COLOR orange][B]T03E02[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Andarilho [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T03/LS-T03E03.mkv$nome=[COLOR orange][B]T03E03[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Destino do Guerreiro [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T03/LS-T03E04.mkv$nome=[COLOR orange][B]T03E04[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Cicatrizes [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T03/LS-T03E05.mkv$nome=[COLOR orange][B]T03E05[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Usurpador [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T03/LS-T03E06.mkv$nome=[COLOR orange][B]T03E06[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Renascido [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T03/LS-T03E07.mkv$nome=[COLOR orange][B]T03E07[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Paris [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T03/LS-T03E08.mkv$nome=[COLOR orange][B]T03E08[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Para os Portoes! [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T03/LS-T03E09.mkv$nome=[COLOR orange][B]T03E09[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Ponto de Ruptura [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T03/LS-T03E10.mkv$nome=[COLOR orange][B]T03E10[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Os Mortos [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/uZ6uqYduM77H37yQUNHxycZiGDp.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>		
+<info>Ragnar Lothbrok é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico.</info>		
+<genre>ÉPICOS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vikings (2013) - T04 - FHD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 04 - 20 EPs[/B][/COLOR]</link>		
+		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E01.mkv$nome=[COLOR orange][B]T04E01[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Uma Boa Traisao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E02.mkv$nome=[COLOR orange][B]T04E02[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Mate a Rainha [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E03.mkv$nome=[COLOR orange][B]T04E03[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Misericordia [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E04.mkv$nome=[COLOR orange][B]T04E04[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Estrada [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E05.mkv$nome=[COLOR orange][B]T04E05[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Prometido [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E06.mkv$nome=[COLOR orange][B]T04E06[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Que Poderia Ter Sido [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E07.mkv$nome=[COLOR orange][B]T04E07[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Lucro e a Perda [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E08.mkv$nome=[COLOR orange][B]T04E08[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Carreto [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E09.mkv$nome=[COLOR orange][B]T04E09[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Morte ao Redor [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E10.mkv$nome=[COLOR orange][B]T04E10[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Ultimo Navio [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E11.mkv$nome=[COLOR orange][B]T04E11[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Forasteiro [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E12.mkv$nome=[COLOR orange][B]T04E12[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Visao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E13.mkv$nome=[COLOR orange][B]T04E13[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Duas Viagens [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E14.mkv$nome=[COLOR orange][B]T04E14[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Na Hora Incerta Antes da Manha [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E15.mkv$nome=[COLOR orange][B]T04E15[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Todos os Seus Anjos [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E16.mkv$nome=[COLOR orange][B]T04E16[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Travessias [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E17.mkv$nome=[COLOR orange][B]T04E17[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Grande Exercito [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E18.mkv$nome=[COLOR orange][B]T04E18[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Vinganza [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E19.mkv$nome=[COLOR orange][B]T04E19[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Na Vespera [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T04/LS-T04E20.mkv$nome=[COLOR orange][B]T04E20[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Acerto de Contas [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/uZ6uqYduM77H37yQUNHxycZiGDp.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>		
+<info>Ragnar Lothbrok é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico.</info>		
+<genre>ÉPICOS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vikings (2013) - T05 - FHD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 05 - 20 EPs[/B][/COLOR]</link>		
+		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E01.mkv$nome=[COLOR orange][B]T05E01[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Os Falecidos (Parte 1) [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E02.mkv$nome=[COLOR orange][B]T05E02[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Os Falecidos (Parte 2) [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E03.mkv$nome=[COLOR orange][B]T05E03[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Terra Natal [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E04.mkv$nome=[COLOR orange][B]T05E04[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Plano [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E05.mkv$nome=[COLOR orange][B]T05E05[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Prisioneiro [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E06.mkv$nome=[COLOR orange][B]T05E06[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Mensagem [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E07.mkv$nome=[COLOR orange][B]T05E07[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Lua Cheia [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E08.mkv$nome=[COLOR orange][B]T05E08[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Piada [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E09.mkv$nome=[COLOR orange][B]T05E09[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Uma Simples Historia [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E10.mkv$nome=[COLOR orange][B]T05E10[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Momentos de Visao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E11.mkv$nome=[COLOR orange][B]T05E11[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Revelasao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E12.mkv$nome=[COLOR orange][B]T05E12[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Assassinato Mais Sujo [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E13.mkv$nome=[COLOR orange][B]T05E13[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Um Novo Deus [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E14.mkv$nome=[COLOR orange][B]T05E14[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Momento Perdido [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E15.mkv$nome=[COLOR orange][B]T05E15[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Inferno [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E16.mkv$nome=[COLOR orange][B]T05E16[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Buda [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E17.mkv$nome=[COLOR orange][B]T05E17[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Coisa Mais Horrivel [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E18.mkv$nome=[COLOR orange][B]T05E18[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Baldur [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E19.mkv$nome=[COLOR orange][B]T05E19[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Que Acontece na Caverna [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T05/LS-T05E20.mkv$nome=[COLOR orange][B]T05E20[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Ragnarok [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/uZ6uqYduM77H37yQUNHxycZiGDp.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>		
+<info>Ragnar Lothbrok é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico.</info>		
+<genre>ÉPICOS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vikings (2013) - T06 - FHD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 06 - 09 EPs[/B][/COLOR]</link>		
+		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E01.mkv$nome=[COLOR orange][B]T06E01[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Novos Comesos [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E02.mkv$nome=[COLOR orange][B]T06E02[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Profeta [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E03.mkv$nome=[COLOR orange][B]T06E03[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Fantasmas, Deuses e Caes Correndo [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E04.mkv$nome=[COLOR orange][B]T06E04[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Todos os Prisioneiros [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E05.mkv$nome=[COLOR orange][B]T06E05[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Chave [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E06.mkv$nome=[COLOR orange][B]T06E06[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Morte e a Serpente [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E07.mkv$nome=[COLOR orange][B]T06E07[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Donzela de Gelo [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E08.mkv$nome=[COLOR orange][B]T06E08[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Valhalla Pode Esperar [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E09.mkv$nome=[COLOR orange][B]T06E09[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Ressurreisao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E10.mkv$nome=[COLOR orange][B]T06E10[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Os Melhores Planos Estabelecidos [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E11.mkv$nome=[COLOR orange][B]T06E11[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Rei Dos Reis [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E12.mkv$nome=[COLOR orange][B]T06E12[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Todas As Mudanzas [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E13.mkv$nome=[COLOR orange][B]T06E13[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Sinal [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E14.mkv$nome=[COLOR orange][B]T06E14[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Almas Perdidas [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E15.mkv$nome=[COLOR orange][B]T06E15[/B][COLOR yellow] ->[/COLOR][COLOR white][B] Tudo No Mar [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E16.mkv$nome=[COLOR orange][B]T06E16[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Palha Fina [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E17.mkv$nome=[COLOR orange][B]T06E17[/B][COLOR yellow] ->[/COLOR][COLOR white][B] A Jangada Da Medusa [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E18.mkv$nome=[COLOR orange][B]T06E18[/B][COLOR yellow] ->[/COLOR][COLOR white][B] E So Magia [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E19.mkv$nome=[COLOR orange][B]T06E19[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Senhor Giveth... [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings/T06/LS-T06E20.mkv$nome=[COLOR orange][B]T06E20[/B][COLOR yellow] ->[/COLOR][COLOR white][B] O Ultimo Ato [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/uZ6uqYduM77H37yQUNHxycZiGDp.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>		
+<info>Ragnar Lothbrok é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico.</info>		
+<genre>ÉPICOS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
