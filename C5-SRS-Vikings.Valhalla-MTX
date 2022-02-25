@@ -1,0 +1,98 @@
+<item>		
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
+<link>NOLINK</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDASERIE[/B][/COLOR]</title>		
+<link>plugin://plugin.video.youtube/play/?video_id=nHMQBg6Zduc</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/izIMqapegdEZj0YVDyFATPR8adh.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/AoqmQvKRN2z8ZYAnREL1Cul4jPn.jpg</fanart>		
+<info>Assista ao trailer</info>		
+<genre>ÉPICOS</genre> 		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Vikings: Valhalla (2022) - HD DUAL[/B][/COLOR]</title>		
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4QH3UX236PNBCEA5IU6XI7LLE4TFVQR</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/jd19Pt0cwC84tiydokVxK9ETrS2.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/nzIWPo9eSkpr68EEGimq0Pzi0GV.jpg</fanart>		
+<info>Nesta sequência de Vikings, cem anos se passaram. Uma nova geração de heróis lendários cria seu destino e faz história.</info>		
+<genre>ÉPICOS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+item>		
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Vikings: Valhalla (2022) - HD DUAL[/B][/COLOR]</title>		
+<link>NOLINK$nome=[COLOR orange][B] Completo - 3 Temps - 40 EPs[/B][/COLOR]</link>		
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>		
+<thumbnail>https://www.themoviedb.org/t/p/original/jd19Pt0cwC84tiydokVxK9ETrS2.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/nzIWPo9eSkpr68EEGimq0Pzi0GV.jpg</fanart>		
+<info>Nesta sequência de Vikings, cem anos se passaram. Uma nova geração de heróis lendários cria seu destino e faz história.</info>		
+<genre>ÉPICOS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vikings: Valhalla (2022) - T01 - HD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 08 EPs[/B][/COLOR]</link>		
+		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings.Valhalla/T01/LS-T01E01.mkv$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Groenlandeses [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings.Valhalla/T01/LS-T01E02.mkv$nome=[COLOR orange][B]T01E02[COLOR yellow] -> [COLOR white]Viking [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings.Valhalla/T01/LS-T01E03.mkv$nome=[COLOR orange][B]T01E03[COLOR yellow] -> [COLOR white]Pantanos [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings.Valhalla/T01/LS-T01E04.mkv$nome=[COLOR orange][B]T01E04[COLOR yellow] -> [COLOR white]A ponte [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings.Valhalla/T01/LS-T01E05.mkv$nome=[COLOR orange][B]T01E05[COLOR yellow] -> [COLOR white]Milagre [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings.Valhalla/T01/LS-T01E06.mkv$nome=[COLOR orange][B]T01E06[COLOR yellow] -> [COLOR white]A ultima filha de Uppsala [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings.Valhalla/T01/LS-T01E07.mkv$nome=[COLOR orange][B]T01E07[COLOR yellow] -> [COLOR white]Escolhas [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/2-EPC/Vikings.Valhalla/T01/LS-T01E08.mkv$nome=[COLOR orange][B]T01E08[COLOR yellow] -> [COLOR white]O fim do comeso [/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/jd19Pt0cwC84tiydokVxK9ETrS2.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/nzIWPo9eSkpr68EEGimq0Pzi0GV.jpg</fanart>		
+<info>Nesta sequência de Vikings, cem anos se passaram. Uma nova geração de heróis lendários cria seu destino e faz história.</info>		
+<genre>ÉPICOS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Vikings: Valhalla (DATA) - T02 - HD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK$nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
+		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<link><LINKUNIVVERSAL>$nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<link>NOLINK$nome=[COLOR black][B].[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
+<link>NOLINK$nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/izIMqapegdEZj0YVDyFATPR8adh.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/nzIWPo9eSkpr68EEGimq0Pzi0GV.jpg</fanart>		
+<info>Nesta sequência de Vikings, cem anos se passaram. Uma nova geração de heróis lendários cria seu destino e faz história.</info>		
+<genre>ÉPICOS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR black].[/COLOR]</title>		
+<link>ignoreme</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
+<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?		
+SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>		
+<link>ignoreme</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
