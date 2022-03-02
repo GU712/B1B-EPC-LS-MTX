@@ -12,6 +12,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
+<name>[COLOR white][B]El Cid (2020-2021)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/B1B-EPC-LS-MTX/main/C6-SRS-El.Cid-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/jTDpdYASFxX45GWkGPHmS74BNvz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5oWqlxV4A3KiqujrsjkvEvCj9OP.jpg</fanart>
+<info>Assista a série El Cid. 
+[COLOR orange][B]ÉPICOS[/B][/COLOR]
+[COLOR orange][B]02 TEMPS - 10 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2020 a 2021[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
 <name>[COLOR white][B]Poldark: Herói de Guerra (2015-2019)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/B1B-EPC-LS-MTX/main/C4-SRS-Poldark-MTX</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/kTdgkqSM5E6FDl94KVmC0iAoyKy.jpg</thumbnail>
