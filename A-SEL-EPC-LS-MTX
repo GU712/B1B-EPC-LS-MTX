@@ -12,8 +12,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES DE ÉPICOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1B-EPC-LS-MTX/main/A1-FLM-EPC-LS-MTX</externallink>
+<name>[COLOR white][B]FILMES DE ÉPICOS-GU [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B1B-EPC-LS-MTX/main/A1-FLM-EPC-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/jhb8gt9/FLM-SRS-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/QXdxXCy/EPICOS-FAN.png</fanart>
 <info>OS MELHORES FILMES DE ÉPICOS ESTÃO AQUI.
@@ -26,23 +26,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE ÉPICOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1B-EPC-LS-MTX/main/B-COL-EPC-LS-MTX</externallink>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE ÉPICOS-GU [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/B1B-EPC-LS-MTX/main/B-COL-EPC-LS-MTX</externallink>
 <thumbnail>https://i.ibb.co/64MmJJ5/EPC-COL-ICON.png</thumbnail>
 <fanart>https://i.ibb.co/QXdxXCy/EPICOS-FAN.png</fanart>
 <info>AS MELHORES COLEÇÕES DE FILMES ESTÃO AQUI.
-NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
-<name>[COLOR white][B]SÉRIES DE ÉPICOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1B-EPC-LS-MTX/main/C-SRS-EPC-LS-MTX</externallink>
-<thumbnail>https://i.ibb.co/FsgdzFt/EPC-SRS-ICON.png</thumbnail>
-<fanart>https://i.ibb.co/QXdxXCy/EPICOS-FAN.png</fanart>
-<info>AS MELHORES SÉRIES DE ÉPICOS ESTÃO AQUI.
 NÃO ENCONTROU O QUE PROCURAVA ?
 SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
 </channel>
