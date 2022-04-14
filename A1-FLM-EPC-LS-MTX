@@ -80,7 +80,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ÉPICOS</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>
+<title>[B][COLOR white]A Ressurreição de Jesus (2022)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=B4dC6rjo1Aw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus[/B][/COLOR]</link>
+
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950fc3ca2d02fc04977db014a064b0ec15c8814a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus - FHD DUAL[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-A.Ressurreisao.de.Jesus.2021.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus - FHD DUAL[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/wRMrYpboKdDGzqi5KT4NtA9NaqN.jpg</fanart>
+<info>Os seguidores de Jesus são caçados, sem liderança e procurando desesperadamente por compreensão, mas quando Jesus ressuscita da morte, eles percebem que a esperança não morreu na cruz</info>
+<genre>ÉPICOS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>				
 <title>[COLOR white][B]Átila - O Huno (2001)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=ZsjASW1e6Sg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Atila - O Huno[/B][/COLOR]</link>				
