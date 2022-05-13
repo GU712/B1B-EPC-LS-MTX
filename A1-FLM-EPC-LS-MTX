@@ -53,22 +53,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ÉPICOS</genre>  				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[B][COLOR white]A Odisséia (1997)[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=2paSWX2hdNI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Odisseia[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A51CBCCD686EAE432A121EDC1D661BECD6891419$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Odisseia - HD DUB[/B][/COLOR]</link>
-
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Odisseia - FHD DUAL[/B][/COLOR]</link>
-
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-A.Odisseia.1997.HD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Odisseia - HD DUB[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rAm6B3WVRzT4XKD15qF1wrDbmmC.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jmCegdxo0woQ3GpI3IuR7XxSMWN.jpg</fanart>
-<info>Após dez anos, a Guerra de Troia chega ao fim e o herói Odisseu faz uma viagem de volta para casa.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+				
+<item>				
+<title>[B][COLOR white]A Odisséia (1997)[/COLOR][/B]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=2paSWX2hdNI$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Odisseia[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A51CBCCD686EAE432A121EDC1D661BECD6891419$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Odisseia - HD DUB[/B][/COLOR]</link>				
+				
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Odisseia - FHD DUAL[/B][/COLOR]</link>				
+				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-A.Odisseia.1997.HD.DUB.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Odisseia - HD DUB[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/rAm6B3WVRzT4XKD15qF1wrDbmmC.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/jmCegdxo0woQ3GpI3IuR7XxSMWN.jpg</fanart>				
+<info>Após dez anos, a Guerra de Troia chega ao fim e o herói Odisseu faz uma viagem de volta para casa.</info>				
+<genre>ÉPICOS</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 <item>				
 <title>[COLOR white][B]A Queda do Império Romano (1964)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=zrLHnHxUZKE$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]A Queda do Imperio Romano[/B][/COLOR]</link>				
@@ -80,22 +80,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ÉPICOS</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[B][COLOR white]A Ressurreição de Jesus (2022)[/COLOR][/B]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=B4dC6rjo1Aw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus[/B][/COLOR]</link>
-
-link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus - HD DUAL[/B][/COLOR]</link>
-
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950fc3ca2d02fc04977db014a064b0ec15c8814a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus - FHD DUAL[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-A.Ressurreisao.de.Jesus.2021.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/wRMrYpboKdDGzqi5KT4NtA9NaqN.jpg</fanart>
-<info>Os seguidores de Jesus são caçados, sem liderança e procurando desesperadamente por compreensão, mas quando Jesus ressuscita da morte, eles percebem que a esperança não morreu na cruz</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+				
+<item>				
+<title>[B][COLOR white]A Ressurreição de Jesus (2022)[/COLOR][/B]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=B4dC6rjo1Aw$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus[/B][/COLOR]</link>				
+				
+link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus - HD DUAL[/B][/COLOR]</link>				
+				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950fc3ca2d02fc04977db014a064b0ec15c8814a$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus - FHD DUAL[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-A.Ressurreisao.de.Jesus.2021.FHD.DUAL.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Ressurreisao de Jesus - FHD DUAL[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/wRMrYpboKdDGzqi5KT4NtA9NaqN.jpg</fanart>				
+<info>Os seguidores de Jesus são caçados, sem liderança e procurando desesperadamente por compreensão, mas quando Jesus ressuscita da morte, eles percebem que a esperança não morreu na cruz</info>				
+<genre>ÉPICOS</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 <item>				
 <title>[COLOR white][B]Átila - O Huno (2001)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=ZsjASW1e6Sg$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Atila - O Huno[/B][/COLOR]</link>				
@@ -106,6 +106,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Duas perspectivas diferentes do destino, defendidas por dois homens mais poderosos do século... conflitos principais do Átila, o Huno.</info>				
 <genre>ÉPICOS</genre>				
 </item>				
+				
 				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "B"				
@@ -171,7 +172,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ÉPICOS</genre>  				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
+				
 <item>				
 <title>[COLOR white][B]Doutor Jivago (1965)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=3hvVYfdXlL8$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Doutor Jivago [/B][/COLOR]</link>				
@@ -184,8 +185,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Ambientado antes e durante a Revolução Bolchevique na Rússia, conheça a história do doutor Yury Zhivago (Omar Sharif), que em plena guerra se viu apaixonado pela bela Lara Antipova (Julie Christie), o amor impossível que move toda a história. </info>				
 <genre>ÉPICOS</genre>  				
 </item>				
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-						
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "E"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -206,18 +207,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "F"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-
-<item>
-<title>[COLOR white][B]Falcão dos Mares (1951)[/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=8OQMKNVd304$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Falcao dos Mares[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Falcao.dos.Mares.1951.HD.LEG-FIX..mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Falcao dos Mares - FHD DUAL[/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/bMJQfAqYcNDz4bZvOnaF7u2uSD2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/mTJk78u0TLmfWFPHRB24WGHoxUN.jpg</fanart>
-<info>Em 1807, o Capt. Hornblower da marinha britânica é enviado em uma missão secreta para desviar aliados espanhóis de Napoleão.</info>
-<genre>ÉPICOS</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
+				
+<item>				
+<title>[COLOR white][B]Falcão dos Mares (1951)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=8OQMKNVd304$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]Falcao dos Mares[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-Falcao.dos.Mares.1951.HD.LEG-FIX..mp4$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Falcao dos Mares - FHD DUAL[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/bMJQfAqYcNDz4bZvOnaF7u2uSD2.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/mTJk78u0TLmfWFPHRB24WGHoxUN.jpg</fanart>				
+<info>Em 1807, o Capt. Hornblower da marinha britânica é enviado em uma missão secreta para desviar aliados espanhóis de Napoleão.</info>				
+<genre>ÉPICOS</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 LETRA "G"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
@@ -314,6 +315,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ÉPICOS</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
+				
+<item>				
+<title>[COLOR white][B]O Homem do Norte (2022)[/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=hP4EE31sUeQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Homem do Norte[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c30d0177872b03d964cf3f960fd971d20a9bc123$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem do Norte - HD LEG[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3663c212e0299127dc4c693f73afa5a3ed8d81ac$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]O Homem do Norte - FHD LEG[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-O.Homem.do%20Norte.2022.FHD.LEG.FIX.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Homem do Norte - FHD LEG-FIX[/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/original/8p9zXB7M78nZpm215zHfqpknMeM.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/xOMLQ0NypqxlEge75I7prBRvRbc.jpg</fanart>				
+<info>O Homem do Norte segue uma história de vingança e loucura de um príncipe.</info>				
+<genre>ÉPICOS</genre>				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
 <item>				
 <title>[COLOR white][B]O Legionário (2020)[/B][/COLOR]</title>				
@@ -514,21 +528,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "Z"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
-<item>
-<title>[COLOR white][B]Zulu (1964) [/B][/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?video_id=CbdZMUON3Is$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Zulu[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db9c1fc44eb1c728e8d5d8b18b4602c6a51adc8$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Zulu - HD LEG[/B][/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05ca9d4bcabca2dd54d08571170886e35db0645$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Zulu - FHD LEG[/B][/COLOR]</link>
-<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-Zulu.1964.FHD.DUB.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Zulu - FHD DUB+LEG[/B][/COLOR]</link>
-<link>https://seed305.bitchute.com/OsqmkKQffiY2/exB6yq2kjiEb.mp4$nome=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]Zulu - SD DUB [/B][/COLOR]</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>
-<info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>
-<genre>ÉPICOS</genre>  
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>				
+<title>[COLOR white][B]Zulu (1964) [/B][/COLOR]</title>				
+<link>plugin://plugin.video.youtube/play/?video_id=CbdZMUON3Is$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white][B]Zulu[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db9c1fc44eb1c728e8d5d8b18b4602c6a51adc8$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Zulu - HD LEG[/B][/COLOR]</link>				
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f05ca9d4bcabca2dd54d08571170886e35db0645$nome=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]Zulu - FHD LEG[/B][/COLOR]</link>				
+<link>https://luminart.ls.lsnew.workers.dev/0:/NOST/FLMS/LS-Zulu.1964.FHD.DUB.LEG.mkv$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]Zulu - FHD DUB+LEG[/B][/COLOR]</link>				
+<link>https://seed305.bitchute.com/OsqmkKQffiY2/exB6yq2kjiEb.mp4$nome=[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white]Zulu - SD DUB [/B][/COLOR]</link>				
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg</thumbnail>				
+<fanart>https://www.themoviedb.org/t/p/original/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg</fanart>				
+<info>Em Natal, África do Sul, em 1879, um pequeno regimento britânico de apenas 105 soldados se recusa a abandonar sua posição e resiste bravamente ao ataque de 4000 guerreiros zulus. Baseado em fatos verídicos.</info>				
+<genre>ÉPICOS</genre>  				
+</item>				
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
-							
+				
 item>				
 <title>[COLOR white][B]NomedoFilme (DATA)[/B][/COLOR]</title>				
 				
@@ -564,4 +578,4 @@ SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 				
-
+				
