@@ -316,7 +316,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>ÉPICOS</genre>				
 </item>				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
-				
+
+<item>
+<title>[COLOR white][B]O Homem da Máscara de Ferro (1977)[/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TWs_YvNtYyc$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Homem da Mascara de Ferro[/B][/COLOR]</link>
+<link>https://luminart.ls.lsnew.workers.dev/0:/FLMS/2EPC-FM/LS-O.Homem.Da.Mascara.De.Ferro.1977.FHD.DUAL.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Homem da Mascara de Ferro - FHD DUAL LEG[/B][/COLOR]</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8ugl7L0Q2XnQBWcoSXGlFL7YZ7s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/en8GUXBXYcbAsp0k45C6srpgHf1.jpg</fanart>
+<info>A Aventura Clássica de Heroísmo, Traição e Triunfo.</info>
+<genre>ÉPICOS</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>				
 <title>[COLOR white][B]O Homem do Norte (2022)[/B][/COLOR]</title>				
 <link>plugin://plugin.video.youtube/play/?video_id=hP4EE31sUeQ$nome=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Homem do Norte[/B][/COLOR]</link>				
